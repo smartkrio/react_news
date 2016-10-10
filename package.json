@@ -1,0 +1,14 @@
+{
+  "name": "react-news",
+  "version": "1.0.0",
+  "description": "React test app",
+  "main": "index.html",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "Trishin Dmitrii",
+  "license": "MIT",
+  "devDependencies": {
+    "express": "^4.14.0"
+  }
+}
