@@ -8,6 +8,10 @@
   },
   "author": "Trishin Dmitrii",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/smartkrio/react_news.git"
+  },
   "devDependencies": {
     "express": "^4.14.0"
   }
